@@ -1,4 +1,4 @@
-# thesisMusikRecommender
+# MusikRecommender
 
 This is a novel approach to recommend music through the use of chord progressions and music features.
 The approach is levereging machine learning clustering and distance algorithms to make recommendations. 
