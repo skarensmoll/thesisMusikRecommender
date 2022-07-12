@@ -1,0 +1,12 @@
+,id_spotify_track,id_track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,name,popularity,album_name,release_date,year,mood,id_chord
+0,025vpSSyndhVZezl8rUF6L,Coldplay - The Scientist (Cello & Piano) - Brooklyn Duo (152kbit_Opus)-converted.mp3.csv,0.255,0.343,5,-8.117,1,0.031,0.927,0.867,0.164,0.116,140.527,295471,4,,,,,,,5000001
+1,6TyaYGQKCnRLVTOQlXvYAA,GABRIELLA - Coldplay - The Scientist (Cover) (152kbit_Opus)-converted.mp3.csv,0.273,0.205,4,-11.893,1,0.0316,0.941,0.000682,0.171,0.0796,148.225,309074,4,,,,,,,5000007
+2,68iMdxXn1timrxURm9dR8C,GLEE - The Scientist (Full Performance) (Official Music Video) (128kbit_AAC)-converted.mp3.csv,0.506,0.481,2,-6.098,1,0.0264,0.482,0.0,0.2,0.224,148.626,254413,4,,,,,,,5000008
+3,6f46TyGZm5oeKIP54PLvql,gleechapversionthescientist-converted.mp3.csv,0.495,0.489,2,-6.083,1,0.027,0.497,0.0,0.256,0.248,148.928,255293,4,,,,,,,5000023
+4,34dnNAUoIPcwnK0RtVMBWZ,"The Scientist - Coldplay Cover (ft. Kina Grannis, Tyler Ward, Lindsey Stirling) (152kbit_Opus)-converted.mp3.csv",0.453,0.295,7,-12.881,1,0.0291,0.518,0.00011,0.293,0.14,146.022,276575,4,,,,,,,5000017
+5,49ilSrZNQcle6PYw8rtvzM,The Scientist - The Petersens (LIVE) (128kbit_AAC)-converted.mp3.csv,0.549,0.283,9,-11.006,1,0.0284,0.661,7.55e-06,0.357,0.163,76.992,303426,4,,,,,,,5000019
+6,66Z3LdLjtwfIdHFF0wZa5B,Wicker Park - The Scientist (Coldplay) (192kbit_AAC)-converted.mp3.csv,0.493,0.27,5,-11.91,1,0.0278,0.244,0.0,0.123,0.176,73.001,305868,4,,,,,,,5000020
+7,2LbHYfTYW6TipHInIjqdaQ,The Scientist - Coldplay (Boyce Avenue feat. Hannah Trigwell acoustic cover) on Spotify & Apple (152kbit_Opus)-converted.mp3.csv,0.334,0.252,8,-11.776,1,0.0287,0.722,0.0,0.0907,0.214,153.879,251514,4,,,,,,,5000013
+8,49Nzxf1LskunwmZ6EyWUew,The Scientist - Coldplay _ Alex Goot & Jada Facer (152kbit_Opus)-converted.mp3.csv,0.525,0.292,9,-8.809,1,0.026,0.91,0.0,0.0795,0.133,75.009,248227,4,,,,,,,5000018
+9,5FoM2ZWwhgTxHFFh2stUw6,Savanna Leigh - The Scientist (Lyrics) (152kbit_Opus)-converted.mp3.csv,0.503,0.123,10,-14.189,1,0.0333,0.879,0.0,0.114,0.28,145.843,233076,4,,,,,,,5000011
+10,7tn1tcxenMwDXrYTOjS3z1,The Scientist (152kbit_Opus)-converted.mp3.csv,0.306,0.229,10,-11.112,1,0.0331,0.807,0.000269,0.112,0.156,85.492,196040,4,,,,,,,5000012
